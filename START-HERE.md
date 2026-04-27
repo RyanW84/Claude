@@ -3,7 +3,7 @@
 ## What this is
 
 This is  a teaching template for building  **agent-native workspaces** - folder structures
-designed so AI agents (Claude code, Curor, Copilot, etc..) can drop in, understand the
+designed so AI agents (Claude code, Cursor, Copilot, etc..) can drop in, understand the
 work, and produce high quality output without you babysitting every prompt.
 
 it's not a file organisation system. It's a **Context delivery system**
