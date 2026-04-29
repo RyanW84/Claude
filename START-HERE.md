@@ -20,7 +20,7 @@ When you given an agent a task, it needs three things:
 
 Most people dump everything into one folder, write on massive prompt, and wonder why the agent loses the thread halfway through. Or they build 30 small files with no routing and the agent doesn't know which ones matter.
 
-This system solves both problems with a **3-layer routing architecture.** //
+This system solves both problems with a **3-layer routing architecture.** // fdfdf
 
 ---
 
